@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Nov  9 17:08:24 2026
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : Senzor_Prezenta
+Top-level Entity Name : Senzor_Prezenta
+Family : Cyclone IV E
+Total logic elements : 219
+    Total combinational functions : 199
+    Dedicated logic registers : 87
+Total registers : 87
+Total pins : 14
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,6 @@
+
+State Machine - |Senzor_Prezenta|state
+Name state.CHARGE state.REST state.MEASURE 
+state.CHARGE 0 0 0 
+state.MEASURE 1 0 1 
+state.REST 1 1 0 

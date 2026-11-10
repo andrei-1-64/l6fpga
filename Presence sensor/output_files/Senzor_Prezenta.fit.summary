@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Nov  9 17:08:28 2026
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : Senzor_Prezenta
+Top-level Entity Name : Senzor_Prezenta
+Family : Cyclone IV E
+Device : EP4CE10E22C8
+Timing Models : Final
+Total logic elements : 202 / 10,320 ( 2 % )
+    Total combinational functions : 199 / 10,320 ( 2 % )
+    Dedicated logic registers : 87 / 10,320 ( < 1 % )
+Total registers : 87
+Total pins : 14 / 92 ( 15 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
